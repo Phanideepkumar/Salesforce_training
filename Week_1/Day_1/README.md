@@ -152,14 +152,14 @@ This repository currently includes:
 # 📸 Screenshots
 
 ## Salesforce CRM
-![Salesforce CRM](Screenshots/Salesforce-CRM.png)
+![Salesforce CRM](ScreenShots/Salesforce-CRM.png)
 
 
 ## Sales Developer Quick Look
-![Sales Developer](Screenshots/salesdeveloper-quicklook.png)
+![Sales Developer](ScreenShots/salesdeveloper-quicklook.png)
 
 ## Sales Value Quick Look
-![Sales Value](Screenshots/salesvalue-quicklook.png)
+![Sales Value](ScreenShots/salesvalue-quicklook.png)
 
 # Overall Understanding
 
