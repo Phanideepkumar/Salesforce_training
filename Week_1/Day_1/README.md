@@ -36,81 +36,105 @@ During this session, the following topics were explored:
 
 # Submission Questions
 
-## 1. What problem does Salesforce solve?
+## 1️⃣ What is CRM?
 
-Salesforce helps organizations manage customer information, sales activities, support services, and business operations in one centralized platform.
+CRM stands for **Customer Relationship Management**.  
+It is a system used by companies to manage customer data, communication, sales, and services in one place.
 
-It solves common business challenges such as:
-- Scattered customer data
-- Manual tracking processes
-- Inefficient communication
-- Poor customer follow-up
-- Limited visibility into sales and service activities
+CRM helps businesses:
+- Store customer information
+- Track customer interactions
+- Improve customer support
+- Increase sales efficiency
+- Build better customer relationships
 
-By centralizing data and automating workflows, Salesforce improves productivity and customer management.
-
----
-
-## 2. What is CRM?
-
-CRM stands for Customer Relationship Management.
-
-It is a system used by businesses to manage customer interactions, store customer details, track leads and opportunities, and improve customer engagement and support.
-
-CRM systems help companies build stronger relationships with customers while improving operational efficiency.
+One of the most popular CRM platforms is **Salesforce**.
 
 ---
 
-## 3. What is an Object in Salesforce? Give one example.
+## 2️⃣ Why Companies Use Salesforce
 
-An object in Salesforce is similar to a table in a database. It is used to store a specific category of information.
+Companies use Salesforce because it helps them:
+- Manage customer data efficiently
+- Track sales opportunities
+- Improve communication with customers
+- Automate business processes
+- Generate reports and analytics
+- Increase productivity and sales
 
-For example:
+Salesforce is cloud-based, so employees can access data from anywhere.
 
-A **Student** object can store:
-- Student Name
-- Roll Number
+---
+
+# 3️⃣ Salesforce Objects
+
+## 🔹 Account
+
+An **Account** represents a company or organization.
+
+### Examples:
+- Infosys
+- Amazon
+- TCS
+
+### It stores:
+- Company name
+- Industry
+- Phone number
+- Address
+
+---
+
+## 🔹 Contact
+
+A **Contact** represents a person associated with an Account.
+
+### Examples:
+- Employee details
+- Customer details
+- Manager information
+
+### It stores:
+- Name
 - Email
-- Department
-- Phone Number
-
-Each entry inside the object is called a record.
+- Phone number
+- Job title
 
 ---
 
-## 4. Difference Between Salesforce Admin and Salesforce Developer
+## 🔹 Opportunity
 
-| Salesforce Admin | Salesforce Developer |
-|---|---|
-| Works mainly with configuration and setup | Works mainly with development and customization |
-| Manages users, permissions, reports, dashboards, and workflows | Builds custom features and business logic |
-| Uses clicks and configuration tools | Uses coding technologies like Apex and LWC |
-| Focuses on system administration | Focuses on extending platform functionality |
+An **Opportunity** represents a potential sales deal.
 
-### Technologies Used by Developers
-- Apex
-- SOQL
-- Lightning Web Components (LWC)
-- APIs
-- Visualforce
+It helps companies track:
+- Sales stage
+- Expected revenue
+- Closing date
+- Deal status
+
+### Example:
+A company planning to buy software from Salesforce.
 
 ---
 
-## 5. Suggest One Real-World Application That Can Be Built Using Salesforce
+# 4️⃣ Real-World Mapping
 
-A College Management System can be developed using Salesforce.
+| Real World | Salesforce Object |
+|------------|------------------|
+| College | Account |
+| Student | Contact |
+| Student Admission Process | Opportunity |
 
-The application can be used to manage:
-- Students
-- Faculty
-- Departments
-- Courses
-- Attendance
-- Examination records
-- Marks and results
-- Student support requests
+### Another Example
 
-This demonstrates how Salesforce can be customized to support real-world organizational requirements.
+| Real World | Salesforce Object |
+|------------|------------------|
+| Company | Account |
+| Employee/Customer | Contact |
+| Business Deal | Opportunity |
+
+---
+
 
 ---
 
@@ -124,6 +148,18 @@ This repository currently includes:
 - `screenshots/` → Practical screenshots and references
 
 ---
+
+# 📸 Screenshots
+
+## Salesforce CRM
+![Salesforce CRM](Screenshots/Salesforce-CRM.png)
+
+
+## Sales Developer Quick Look
+![Sales Developer](Screenshots/salesdeveloper-quicklook.png)
+
+## Sales Value Quick Look
+![Sales Value](Screenshots/salesvalue-quicklook.png)
 
 # Overall Understanding
 
