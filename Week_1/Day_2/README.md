@@ -278,17 +278,17 @@ ScholarSync App
 
 ---
 
-# 5. Screenshots from Trailhead
+# 📸 Screenshots
 
-Add your Trailhead screenshots in this section after completing the modules.
+## Salesforce Platform Basics Notes
 
-## Example Screenshots to Include
-- Salesforce Dashboard
-- Trailhead Badges
-- App Manager
-- Object Manager
-- Flow Builder
+![Salesforce Platform Basics](screenshots/agent360-platform-dev-basics.png)
 
+---
+
+## Salesforce Platform Image
+
+![Salesforce Platform](screenshots/agent360-platformbasics.png)
 ---
 
 # Questions for Evaluation
