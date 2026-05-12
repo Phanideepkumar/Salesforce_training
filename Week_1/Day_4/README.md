@@ -47,7 +47,7 @@ flowchart TD
 
 ### Suggested Image
 
-![Screen Flow Example]([https://developer.salesforce.com/docs/resources/img/en-us/246.0?doc_id=atlas.en-us.flow.meta/flow/images/flow_builder_screen_flow.png](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/screen-flows/get-started-with-screen-flows/images/37e0d64518dcf6bb5de725a6ecf4b7b8_kix.e7a4it2mv6rh.png))
+![Screen Flow Example](Screen_flow.webp)
 
 ---
 
@@ -78,7 +78,7 @@ flowchart TD
 
 ### Suggested Image
 
-![Record Triggered Flow](https://developer.salesforce.com/docs/resources/img/en-us/246.0?doc_id=atlas.en-us.flow.meta/flow/images/flow_builder_record_triggered_flow.png)
+![Record Triggered Flow](Record_tiggered_flow.png)
 
 ---
 
@@ -243,7 +243,7 @@ Automation follows predefined rules every time, ensuring consistency. It reduces
 
 ## Salesforce Flow Builder Interface
 
-![Salesforce Flow Builder](https://developer.salesforce.com/docs/resources/img/en-us/246.0?doc_id=atlas.en-us.flow.meta/flow/images/flow_builder_canvas.png)
+![Salesforce Flow Builder](Automation.jpg)
 
 ## Automation Lifecycle
 
