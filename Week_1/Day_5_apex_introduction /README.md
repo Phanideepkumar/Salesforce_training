@@ -371,17 +371,6 @@ Programming allows:
 - Follow layered architecture
 
 ---
----
-
-# 📸 Screenshots
-
-## Account Trigger Handler
-![Account Trigger Handler](Screenshots/AccountTriggerHandler.png)
-
----
-
-## Contact and Lead Search
-![Contact and Lead Search](Screenshots/ContactAndLeadSearch.png)
 
 ---
 
