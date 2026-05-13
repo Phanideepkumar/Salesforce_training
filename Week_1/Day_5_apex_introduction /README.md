@@ -371,7 +371,29 @@ Programming allows:
 - Follow layered architecture
 
 ---
+---
 
+# 📸 Screenshots
+
+## Account Trigger Handler
+![Account Trigger Handler](Screenshots/AccountTriggerHandler.png)
+
+---
+
+## Contact and Lead Search
+![Contact and Lead Search](Screenshots/ContactAndLeadSearch.png)
+
+---
+
+## SOQL Queries
+![SOQL Queries](Screenshots/SOQL-queries.png)
+
+---
+
+## Leads
+![Leads](Screenshots/leads.png)
+
+---
 # 8. Conclusion
 
 Salesforce provides powerful declarative tools like Flow for rapid automation. However, enterprise systems eventually require Apex programming for advanced business logic, integrations, scalability, and flexibility.
@@ -387,4 +409,8 @@ The best enterprise architecture combines:
 This hybrid approach creates scalable and maintainable enterprise applications.
 
 ---
+---
 
+# 📌 Status
+
+✅ Completed
