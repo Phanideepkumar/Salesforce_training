@@ -33,7 +33,7 @@ flowchart LR
 
 ## SOQL Architecture
 
-![SOQL Architecture](https://images.unsplash.com/photo-1515879218367-8466d910aaa4)
+![SOQL Architecture](SalesForce_Architecture.webp)
 
 ---
 
@@ -63,7 +63,7 @@ flowchart TD
 
 ## Apex Trigger Image
 
-![Apex Trigger](https://images.unsplash.com/photo-1551288049-bebda4e38f71)
+![Apex Trigger](Apex_Trigger.webp)
 
 ---
 
@@ -94,7 +94,7 @@ flowchart LR
 
 ## Flow Builder Image
 
-![Flow Builder](https://images.unsplash.com/photo-1552664730-d307ca884978)
+![Flow Builder](Flow_Builder.png)
 
 ---
 
@@ -123,7 +123,7 @@ flowchart LR
 
 ## Trigger Lifecycle Image
 
-![Trigger Lifecycle](https://images.unsplash.com/photo-1516321318423-f06f85e504b3)
+![Trigger Lifecycle](Trigger_LifeCycle.png)
 
 ---
 
@@ -160,7 +160,7 @@ flowchart TD
 
 ## CRM Automation Image
 
-![CRM Automation](https://images.unsplash.com/photo-1451187580459-43490279c0fa)
+![CRM Automation](CRM_Automation.webp)
 
 ---
 
@@ -189,7 +189,7 @@ flowchart LR
 
 ## Database Query Image
 
-![Database Query](https://images.unsplash.com/photo-1461749280684-dccba630e2f6)
+![Database Query](Database_Query.png)
 
 ---
 
@@ -228,7 +228,7 @@ flowchart LR
 
 ## Enterprise System Image
 
-![Enterprise System](https://images.unsplash.com/photo-1498050108023-c5249f4df085)
+![Enterprise System](System_Enterprise.webp)
 
 ---
 
@@ -265,7 +265,7 @@ flowchart LR
 
 ## Event Driven Architecture Image
 
-![Event Driven](https://images.unsplash.com/photo-1504384308090-c894fdcc538d)
+![Event Driven](Event_driven_Architecture.webp)
 
 ---
 
